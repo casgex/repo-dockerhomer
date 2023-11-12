@@ -65,3 +65,5 @@ Now we are ready to launch our locally hosted website. First make sure you are i
 
 ### Step 5: Test your docker website
 Open up a browser and type in your IP address from the vm running the docker file. Add **`8092`** (the port given in the yaml file) to the end and you should now be able to connect to the website.
+
+#test
